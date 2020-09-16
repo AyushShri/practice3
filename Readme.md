@@ -1,2 +1,2 @@
-practice session about git
+practice session about git \n test commit
 
